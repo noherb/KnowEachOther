@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="who_answers">Qui répond ?</string>
+    <string name="who_guesses">Qui devine ? </string>
+    <string name="question_not_found">Question introuvable.</string>
+    <string name="ans_true">Vrai</string>
+    <string name="ans_false">Faux</string>
+    <string name="you">Tu</string>
+    <string name="question_1">%1$s préfère les chiens que les chats.</string>
+    <string name="question_2">%1$s veut des enfants.</string>
+    <string name="question_3">%1$s préfère se reposer que vivre des aventures pendant ses vacances.</string>
+    <string name="question_1_ans">Tu préfères les chiens que les chats.</string>
+    <string name="question_2_ans">Tu veux des enfants.</string>
+    <string name="question_3_ans">Tu préfères te reposer que vivre des aventures pendant tes vacances.</string>
+    <string name="answerer">C\'est au tour de %1$s de répondre \!</string>
+    <string name="guesser">C\'est au tour de %1$s de deviner \!</string>
+    <string name="player_score">Jeu terminé \! %1$s a obtenu un score de %2$d/%3$d.</string>
+    <string name="valid_name_error">Veuillez entrer un nom valide.</string>
+    <string name="correct_answer">Bonne réponse \!</string>
+    <string name="wrong_answer">Mauvaise réponse.</string>
+    <string name="player1">Joueur 1</string>
+    <string name="player2">Joueur 2</string>
+    <string name="hint_placeholder">Indice facultatif pour cette question</string>
+    <string name="show_hint">Afficher l\'indice</string>
+    <string name="hint_label">Indice : %1$s</string>
+    <string name="no_hint_available">Aucun indice disponible pour cette question.</string>
+
+    <string name="restart_button">Relancer une partie</string>
+
+
+</resources>

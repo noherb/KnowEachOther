@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">KnowEachOther</string>
+    <string name="number_question" translatable="false">Question 0</string>
+    <string name="question_not_found">Question not found.</string>
+    <string name="who_answers">Who answers?</string>
+    <string name="who_guesses">Who guesses?</string>
+    <string name="question_prefix" translatable="false">Question</string>
+    <string name="ans_true">True</string>
+    <string name="ans_false">False</string>
+    <string name="you">You</string>
+    <string name="question_1">%1$s prefers dogs over cats.</string>
+    <string name="question_2">%1$s wants kids.</string>
+    <string name="question_3">%1$s prefers resting than adventuring on holidays.</string>
+    <string name="question_1_ans">You prefer dogs over cats.</string>
+    <string name="question_2_ans">You want kids.</string>
+    <string name="question_3_ans">You prefer resting than adventuring on holidays.</string>
+    <string name="ok_button" translatable="false">OK</string>
+    <string name="answerer">It\'s %1$s\'s turn to answer\!</string>
+    <string name="guesser">It\'s %1$s\'s turn to guess\!</string>
+    <string name="player_score">Game over\! %1$s scored %2$d/%3$d.</string>
+    <string name="valid_name_error">Please enter a valid name</string>
+    <string name="correct_answer">Correct answer\!</string>
+    <string name="wrong_answer">Wrong answer.</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="hint_placeholder">Optional hint for this question</string>
+    <string name="show_hint">Show hint</string>
+    <string name="hint_label">Hint: %1$s</string>
+    <string name="no_hint_available">No hint available for this question</string>
+
+    <string name="restart_button">Restart Game</string>
+
+</resources>
